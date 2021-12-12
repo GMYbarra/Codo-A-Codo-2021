@@ -1,0 +1,26 @@
+.nav-item nav_footer{
+    color: white!important;
+    cursor: pointer;
+}
+
+.nav-item c{
+    color: #28a745!important;
+    cursor: pointer;
+}
+
+.nav li{
+    padding-right: 50px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.card{
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-image: linear-gradient(to right,#1c3643,#1d5271);
+}

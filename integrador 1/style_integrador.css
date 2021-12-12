@@ -1,0 +1,32 @@
+.nav-item c{
+    color: #28a745!important;
+    cursor: pointer;
+}
+
+.nav-item nav_footer{
+    color: white!important;
+    cursor: pointer;
+}
+
+.nav li{
+    padding-right: 50px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.card-fluid img{
+    filter: brightness(50%);
+}
+
+.card-img-overlay{
+    width: fit-content;
+    margin-left: 65%;
+    margin-top: 600px;
+    text-align: right;
+}
+
+footer{
+    background-image: linear-gradient(to right,#1c3643,#1d5271);
+}
